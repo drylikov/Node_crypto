@@ -1,4 +1,5 @@
-node-crypto
+Node crypto.
+
 ===========
 
 A wrapper around openssl for node.js, currently exposing Hashing, Signing
